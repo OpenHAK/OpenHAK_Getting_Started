@@ -21,6 +21,9 @@ The OpenHAK board is based on the Simblee BLE module. This module supports the A
 Included on the OpenHAK board are the MAX30102 optical PPG/SpO2 sensor, and the BMP160 6-axis IMU, li-po battery charger via USB, and a breakout connector to be able to add on hardware and HAK your device.
 
 ###Default Firmware:
+
+[Repo Here](https://github.com/OpenHAK/OHAK_firmware)
+
 The app pre-flashed on the kit does the following
 Every Ten minutes (if connected to the app or not)
 - Captures 30 seconds of heart-rate data. The median value as well as the standard deviation from these captures values are saved
@@ -32,6 +35,9 @@ The data can be synced to the app at any time and viewed in graph form.
 
 ##OpenHAK Mobile Apps:
 The mobile apps provided with the OpenHAK platform are identical, and were created using Evothings/Cordova.
+
+[Repo Here](https://github.com/OpenHAK/openhak_evothings)
+
 ###Current Features:
 - Scan for available OpenHAKs: All nearby OpenHAKs, not connected to an app, will show up with their unique device IDs.
 - Connect to an OpenHAK: Clicking the OpenHAK ID will initiate the BLE connection, automatically sync the current time/data, and download all the stored samples on the device.
