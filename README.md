@@ -10,6 +10,8 @@ Kit contents:
 - Download the OpenHAK app - [Android](https://github.com/OpenHAK/ohak_android)  - iOS (App pending review)
 - Attach the strap to battery connector side of you OpenHAK board
 - Connect the Battery (Should blink Red,Green,Blue)
+[![Startup](https://img.youtube.com/vi/IthpAmcseeE/0.jpg)](http://www.youtube.com/watch?v=IthpAmcseeE)
+
 - Slide rubber tube over strap and battery
 - Put it on!
 - Connect it to the app to sync the current time/date
