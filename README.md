@@ -7,7 +7,7 @@ Kit contents:
   5. Rubber tube
 
 ##Setup Your Kit:
-- Download the OpenHAK app - [Android](https://github.com/OpenHAK/ohak_android)  - iOS (App pending review)
+- Download the OpenHAK app - [Android](https://github.com/OpenHAK/ohak_android)  - [iOS](https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=1291796513&mt=8)
 - Attach the strap to battery connector side of you OpenHAK board
 - Connect the Battery (Should blink Red,Green,Blue)
 [![Startup](https://img.youtube.com/vi/IthpAmcseeE/0.jpg)](http://www.youtube.com/watch?v=IthpAmcseeE)
